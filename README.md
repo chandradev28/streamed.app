@@ -122,7 +122,16 @@ npx expo run:android
 
 ## 📱 Screenshots
 
-> *Coming soon...*
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="screenshots/home.jpg" width="200"/><br/><b>🏠 Home</b></td>
+<td align="center"><img src="screenshots/playlist.jpg" width="200"/><br/><b>📺 Playlist</b></td>
+<td align="center"><img src="screenshots/music.jpg" width="200"/><br/><b>🎵 Music</b></td>
+<td align="center"><img src="screenshots/torboxers.jpg" width="200"/><br/><b>⚡ Torboxers</b></td>
+</tr>
+</table>
+</div>
 
 ## 🔧 Configuration
 
