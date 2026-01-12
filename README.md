@@ -133,27 +133,6 @@ npx expo run:android
 </table>
 </div>
 
-## 🔧 Configuration
-
-### TorBox Setup
-1. Get your API key from [TorBox](https://torbox.app)
-2. Open Settings in the app
-3. Enter your TorBox API key
-
-### Hi-Fi Music Setup
-Configure your Subsonic-compatible server in the settings:
-- Server URL
-- Username & Password
-
-## 🌟 Streaming Sources
-
-| Source | Type | Status |
-|--------|------|--------|
-| **Torrentio** | Torrents | ✅ Active |
-| **Stremio Addons** | Various | ✅ Active |
-| **TIDAL** | Music | ✅ Active |
-| **Qobuz** | Music | ✅ Active |
-| **Subsonic** | Music | ✅ Active |
 
 ## 🤝 Contributing
 
