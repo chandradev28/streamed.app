@@ -22,8 +22,8 @@ const TIDAL_API_ENDPOINTS = [
 ];
 
 // HiFi server (Subsonic API with hardcoded auth)
-const HIFI_API_HOST = 'http://135.235.163.138:8080';
-const HIFI_CREDENTIALS = { username: 'hifi', password: 'local' };
+const HIFI_API_HOST = 'YOUR_HIFI_SERVER_URL';
+const HIFI_CREDENTIALS = { username: 'YOUR_USERNAME', password: 'YOUR_PASSWORD' };
 const API_VERSION = '1.16.1';
 const CLIENT_NAME = 'StreamedApp';
 
