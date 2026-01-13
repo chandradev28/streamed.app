@@ -46,6 +46,17 @@
 
 ---
 
+## 📸 Demo
+
+<p align="center">
+  <img src="assets/demo-home.jpg" width="200" alt="Home Screen"/>
+  <img src="assets/demo-playlist.jpg" width="200" alt="Playlist"/>
+  <img src="assets/demo-music.jpg" width="200" alt="Music Player"/>
+  <img src="assets/demo-torboxers.jpg" width="200" alt="Torboxers"/>
+</p>
+
+---
+
 ## ✨ Features
 
 ### 🎬 Movies & TV Shows
