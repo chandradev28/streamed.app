@@ -1,0 +1,30 @@
+{
+    "cli": {
+        "version": ">= 3.0.0",
+        "appVersionSource": "local"
+    },
+    "build": {
+        "development": {
+            "developmentClient": true,
+            "distribution": "internal"
+        },
+        "preview": {
+            "distribution": "internal",
+            "android": {
+                "buildType": "apk"
+            },
+            "node": "20.19.4",
+            "pnpm": "10.25.0"
+        },
+        "production": {
+            "android": {
+                "buildType": "apk"
+            },
+            "node": "20.19.4",
+            "pnpm": "10.25.0"
+        }
+    },
+    "submit": {
+        "production": {}
+    }
+}
